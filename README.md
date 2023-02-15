@@ -2,7 +2,7 @@
 
 <a href="https://www.youtube.com/channel/UCRxT7tjZNa3h7GM_z-s7pnA/featured"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-##  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width=30 > I'm a Developer, a Son, a Husband and an Engineer!!
+##  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width=30 > I'm a Developer, a Son and an Engineer!!
 
 <!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! -->
 - 🌱 I’m a MERN stack developer.
