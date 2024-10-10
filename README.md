@@ -1,111 +1,45 @@
-# Hi there, I'm Md Rony Mia - [ronymia][website] 👋
+![👋 Hi, my name is MD Rony Mia](https://as2.ftcdn.net/v2/jpg/05/67/40/31/1000_F_567403147_WjV5fqGRjjPUkBOnXaaREKgVjZMC12M7.jpg)
 
-<a href="https://www.youtube.com/channel/UCRxT7tjZNa3h7GM_z-s7pnA/featured"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+![Profile views](https://komarev.com/ghpvc/?username=ronymia&label=Profile%20views&color=0e75b6&style=flat)
 
-##  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width=30 > I'm a Developer, a Son and an Engineer!!
+<div id="toc">
+  <ul align="center" style="list-style: none">
+    <summary>
+      <h1>
+        👋 Hi, my name is MD Rony Mia
+      </h1>
+    </summary>
+  </ul>
+</div>
 
-<!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! -->
-- 🌱 I’m a MERN stack developer.
-- 👯 I’m looking to collaborate with other content creators.
-- 🥅 2023 Goals: Get a full time job as a web developer.
-- ⚡ Fun fact: I love to code and reading novels.
+**<h3 align="left">Connect with me:</h3>** 
+<p align="left"><a href="https://www.facebook.com/developerRonyMia" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/ronymia" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/c" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="mdronymia.javascript@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
-<a href="https://www.youtube.com/channel/UCRxT7tjZNa3h7GM_z-s7pnA/featured"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+ **<h3 align="left">🚀 Passionate fullstack web developer, creating robust and scalable web applications. Skilled in both front-end and back-end technologies, with a keen eye for user experience and performance optimization.</h3>**
 
-### Connect with me:
+**<h3 align="left">Rapid Fire</h3>**
 
-[<img align="left" alt="four-arms-tech.unaux.com" width="22px" src="https://www.freeiconspng.com/thumbs/website-icon/website-icon-11.png" />][website]
+- 💼 I'm currently working on: **💻 Developing a new e-commerce platform using React and Node.js**
+- 🌱 I'm currently learning: **📚 Exploring Zustand**
+- 💬 Ask me about: **💡 JavaScript, TypeScript, React,Next.js Node.js,Express.js MongoDB, Mongoose, PostgreSQL, Prisma and RESTful APIs**
+- ⚡ Fun fact: **🎢 I once debugged a issue while on a roller coaster!**
 
-[<img align="left" alt="ronymia | Twitter" width="22px" src="https://assets.webiconspng.com/uploads/2017/09/Facebook-PNG-Image-71244.png" />][facebook]
+ **<h3 align="left">Skills</h3>**
 
-[<img align="left" alt="ronymia | LinkedIn" width="22px" src="https://i.postimg.cc/J08DkszL/linkedin.png" />][linkedin]
+<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;"><img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white" height="32" alt="JavaScript" style="margin-right: 4px"> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="32" alt="TypeScript" style="margin-right: 4px"> <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="32" alt="React" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Node.js-8CC84B?logo=node.js&logoColor=white" height="32" alt="Node.js" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" height="32" alt="Tailwind CSS" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" height="32" alt="Express" style="margin-right: 4px"> <img src="https://img.shields.io/badge/GSAP-00D084?logo=gsap&logoColor=white" height="32" alt="GSAP" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" height="32" alt="MongoDB" style="margin-right: 4px"> <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" height="32" alt="PostgreSQL" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" height="32" alt="Prisma" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="32" alt="MySQL" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Mongoose-880000?logo=mongoose&logoColor=white" height="32" alt="Mongoose" style="margin-right: 4px"> <img src="https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB" height="32" alt="React Native" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="32" alt="Docker" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white" height="32" alt="Cypress" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white" height="32" alt="Visual Studio Code" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" height="32" alt="Figma" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Notepad++-90E59A?logo=notepad-plus-plus&logoColor=white" height="32" alt="Notepad++" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white" height="32" alt="Adobe Photoshop" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?logo=adobe-illustrator&logoColor=white" height="32" alt="Adobe Illustrator" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Adobe_XD-FF61F6?logo=adobe-xd&logoColor=white" height="32" alt="Adobe XD" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white" height="32" alt="Firebase" style="margin-right: 4px"></div>
 
-<a href="https://www.youtube.com/channel/UCRxT7tjZNa3h7GM_z-s7pnA/featured"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+ **<h3 align="left">GitHub Stats</h3>**
 
-### Languages and Tools:
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ronymia&theme=default&cache_seconds=1800&border_radius=4&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&line_height=25&hide_border=false" alt="GitHub stats Card" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ronymia&theme=default&cache_seconds=1800&border_radius=4&hide_title=false&layout=compact&langs_count=5&card_width=400&hide_progress=false" alt="GitHub top-langs Card" />
+</p>
 
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<!-- [jsplaylist] -->
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<!-- [reactplaylist] -->
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<!-- [webdevplaylist] -->
-<img align="left" alt="MongoDB" width="26px" src="https://i.dlpng.com/static/png/468328_preview.png" />
-<!-- [webdevplaylist] -->
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<!-- webdevplaylist -->
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<!-- [cssplaylist] -->
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<!-- [cssplaylist] -->
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=ronymia&repo=&theme=default&cache_seconds=1800&border_radius=4&show_owner=false" alt="GitHub repo-card Card" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=ronymia&theme=default&hide_border=false&border_radius=4.5&date_format=M+j%5B%2C+Y%5D&mode=daily&disable_animations=false&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&exclude_days=&locale=en&card_height=200" alt="GitHub streak Card" />
+</p>
 
-<!-- [webdevplaylist] -->
-<img align="left" alt="Git" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
-<!-- [webdevplaylist] -->
-<img align="left" alt="GitHub" width="26px" src="https://www.freeiconspng.com/thumbs/github-icon/git-github-hub-icon-25.png" />
-<!-- [webdevplaylist] -->
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<a href="https://www.youtube.com/channel/UCRxT7tjZNa3h7GM_z-s7pnA/featured"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<!-- [webdevplaylist] -->
+ **<h3 align="left">Support Me</h3>**
 
-<!-- <br /> -->
-
-<!-- ### 📺 Latest YouTube Videos -->
-
-<!-- YOUTUBE:START -->
-
-<!-- - [Remote Team Collaboration Techniques // Tara Z. Manicsic React Advanced London Interview](https://www.youtube.com/watch?v=vQjDWKy6Pcw)
-- [2021 Frontend Roadmap #shorts | Save This!](https://www.youtube.com/watch?v=CxDwSZwysjQ)
-- [Make $500k as a College Dropout 💲, Find Tech Jobs 🔍, Get Started in Quantum 💻 // STACKr News Weekly](https://www.youtube.com/watch?v=OttkdpbSchQ)
-- [The Origins of React // Jenn Creighton React Advanced London Interview](https://www.youtube.com/watch?v=lIJHjamOPfM)
-- [AIs Building Websites 🤖, Aliens Killing UIs 👽, & Ecommerce with Jamstack 🛒 // STACKr News Weekly](https://www.youtube.com/watch?v=Q7-f99kYr60) -->
-<!-- YOUTUBE:END -->
-
-<!-- ➡️ [more videos...](https://youtube.com/codestackr) -->
-
-
-<!-- ### 📕 Latest Blog Posts -->
-
-<!-- BLOG-POST-LIST:START -->
-<!--
-- [How To Pass Application Tracking Systems (ATS) & Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65) -->
-<!-- BLOG-POST-LIST:END -->
-
-<!-- ➡️ [more blog posts...](https://codestackr.com) -->
-
-<!-- --- -->
-<!--
-<details>
-  <summary>:zap: Recent GitHub Activity</summary> -->
-
-<!--START_SECTION:activity-->
-<!-- 1. 🗣 Commented on [#2](https://github.com/codeSTACKr/portfolio-sass/issues/2) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass)
-2. ❗️ Closed issue [#2](https://github.com/codeSTACKr/portfolio-sass/issues/2) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass)
-3. ❌ Closed PR [#11](https://github.com/codeSTACKr/free-developer-resources/pull/11) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-4. 🗣 Commented on [#11](https://github.com/codeSTACKr/free-developer-resources/issues/11) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-5. 🎉 Merged PR [#10](https://github.com/codeSTACKr/free-developer-resources/pull/10) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources) -->
-<!--END_SECTION:activity-->
-
-<!-- </details> -->
-
-
-
-
-
-[website]: https://my-portfolio-frontend-bh3v4sxu5-ronymia.vercel.app/
-
-<!-- [course]: http://vsCodeHero.com -->
-
-[facebook]: https://www.facebook.com/DevN.Islam
-[instagram]: https://www.instagram.com/nazmul_mahmud_rony
-[linkedin]: https://www.linkedin.com/
-
-<!-- [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0 -->
+<p align="left"><a href="https://ko-fi.com/sushil_" target="_blank"><img src="https://img.shields.io/badge/Ko--fi-343B45?logo=kofi&logoColor=Black" height="36" style="margin-right: 4px"></a></p>
